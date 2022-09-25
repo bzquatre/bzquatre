@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bzquatre@gmail.com**
 
-- 📄 Know about my experiences [dkmsg;sg](dkmsg;sg)
+- 📄 Know about my experiences [cv.bzquatre.ml](bzquatre)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
