@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [potrtg](potrtg)
+- 👨‍💻 All of my projects are available at [portfulio](portfulio.bzquatre.ml)
 
 - 💬 Ask me about **react,PYQT,SQL**
 
 - 📫 How to reach me **bzquatre@gmail.com**
 
-- 📄 Know about my experiences [cv.bzquatre.ml](bzquatre)
+- 📄 Know about my experiences [cv](cv.bzquatre.ml)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
