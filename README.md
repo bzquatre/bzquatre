@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm zakaria bouzegzeg</h1>
 <h3 align="center">A passionate fullstack developer from Algeria</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Kivy**
 
-- 👨‍💻 All of my projects are available at [www.bzquatre.me](https://www.bzquatre.me)
+- 👨‍💻 All of my projects are available at [www.bzquatre.me](https://www.bzquatre.com)
 
-- 💬 Ask me about **react,PYQT,SQL**
+- 💬 Ask me about **react,PYQT,SQL,Django**
 
 - 📫 How to reach me **bzquatre@gmail.com**
 
-- 📄 Know about my experiences [cv](cv.bzquatre.me)
+- 📄 Know about my experiences [cv](cv.bzquatre.com)
 
 <p align="left">
 </p>
