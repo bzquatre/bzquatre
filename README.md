@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kivy**
 
-- 👨‍💻 All of my projects are available at [www.bzquatre.me](https://www.bzquatre.com)
+- 👨‍💻 All of my projects are available at [www.bzquatre.com](https://www.bzquatre.com)
 
 - 💬 Ask me about **react,PYQT,SQL,Django**
 
