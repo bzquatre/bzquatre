@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bzquatre@gmail.com**
 
-- 📄 Know about my experiences [cv](cv.bzquatre.com)
+- 📄 Know about my experiences [cv](https://cv.bouzegzeg.zakaria.web.app)
 
 <p align="left">
 </p>
