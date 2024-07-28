@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,PYQT,SQL,Django**
 
-- 📫 How to reach me **bzquatre@gmail.com**
+- 📫 How to reach me **bouzegzeg.zakaria@gmail.com**
 
 - 📄 Know about my experiences [cv](https://cv-bouzegzeg-zakaria.web.app)
 
