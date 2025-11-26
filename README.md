@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm zakaria bouzegzeg</h1>
-<h3 align="center">A passionate fullstack developer from Algeria</h3>
+<h3 align="center">A Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **Kivy**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio-bouzegzeg-zakaria.web.app)
 
-- 💬 Ask me about **react,PYQT,SQL,Django**
+- 💬 Ask me about **reactjs,Tailwincss,PYQT,Django,Python,SQL,LINUX,DOCKER,NGINX**
 
 - 📫 How to reach me **bouzegzeg.zakaria@gmail.com**
 
